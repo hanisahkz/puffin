@@ -1,0 +1,5 @@
+.idea/
+*.json
+*-notes.md
+.terraform
+*-depr
